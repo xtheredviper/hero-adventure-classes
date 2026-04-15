@@ -4,29 +4,29 @@
 ![OOP](https://img.shields.io/badge/Paradigm-OOP-blueviolet?style=for-the-badge)
 ![RPG](https://img.shields.io/badge/Theme-RPG-red?style=for-the-badge)
 
-## 📋 Sobre o Projeto
-Este projeto é uma imersão nos fundamentos da **Programação Orientada a Objetos (POO)**. Através de uma temática de RPG (inspirada em grandes clássicos como Baldur's Gate), o código gerencia diferentes classes de heróis, cada um com suas propriedades únicas e métodos de combate.
+## 📋 About the Project
+This project is an immersion into the fundamentals of **Object-Oriented Programming (OOP)**. Featuring an RPG theme (inspired by classics like Baldur's Gate), the code manages different hero classes, each with unique properties and combat methods.
 
-O objetivo principal foi abandonar a programação linear para criar um sistema onde os dados e os comportamentos (métodos) estão encapsulados em **Classes**.
+The primary goal was to move beyond linear programming to create a system where data and behaviors (methods) are encapsulated within **Classes**.
 
-## 🛠️ Tecnologias
-- **JavaScript (ES6+)**: Implementação de Classes e métodos de iteração modernos.
-- **Node.js**: Execução do script.
+## 🛠️ Technologies
+- **JavaScript (ES6+)**: Implementation of modern Classes and iteration methods.
+- **Node.js**: Script execution environment.
 
-## 🧠 Conceitos Avançados Aplicados
-Neste desafio, demonstrei proficiência em:
-- **Classes e Construtores**: Criação de moldes para objetos complexos utilizando o método `constructor`.
-- **Métodos de Classe**: Implementação do método `attack()` para encapsular o comportamento dos heróis.
-- **Iteração com forEach**: Manipulação de arrays de objetos (`heroDescription`) para instanciar e executar métodos automaticamente.
-- **Instanciação Dinâmica**: Uso do operador `new` para criar objetos únicos a partir de uma classe base.
+## 🧠 Advanced Concepts Applied
+In this challenge, I demonstrated proficiency in:
+- **Classes and Constructors**: Creating blueprints for complex objects using the `constructor` method.
+- **Class Methods**: Implementing the `attack()` method to encapsulate hero behaviors.
+- **Array Iteration (forEach)**: Handling arrays of objects (`heroDescription`) to automatically instantiate and execute methods.
+- **Dynamic Instantiation**: Utilizing the `new` operator to create unique objects from a base class.
 
-## 🎮 Personagens Implementados
-O sistema processa dinamicamente heróis como:
-- **Laurel**: Paladina Elfa.
-- **Astarion**: Ladino Cria Vampírica.
-- **Gale**: Mago Humano.
+## 🎮 Implemented Characters
+The system dynamically processes heroes such as:
+- **Laurel**: Elf Paladin.
+- **Astarion**: Vampire Spawn Rogue.
+- **Gale**: Human Wizard.
 
-## 🚀 Como Executar
-1. Clone este repositório:
+## 🚀 How to Run
+1. Clone this repository:
    ```bash
    git clone [https://github.com/xtheredviper/hero-adventure-classes.git](https://github.com/xtheredviper/hero-adventure-classes.git)
